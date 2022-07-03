@@ -19,3 +19,19 @@ A custom red + black themed rice!
 
 ## Mouse theme used:
 - [Sunity Cursors](https://www.xfce-look.org/p/1703043)
+
+## Panels theme:
+- [Memories](https://github.com/Neeraj029/custom-xfce4-panel)
+- [Plank => `TCE inBlack Trend - Uppercap.tar.xz`](https://www.pling.com/p/1305874/)
+
+## Compositor:
+- [picom ibhagwan](https://github.com/ibhagwan/picom-ibhagwan-git)
+
+## Terminal theme:
+- Used pywal on the wallpaper, [`Link to pywall`](https://github.com/dylanaraps/pywal)
+
+## App Launcher:
+- Used ulauncher theme to [`ulauncher`](https://github.com/sotsugov/ulauncher-eigen)
+
+## Conky:
+- [Graffias]()
