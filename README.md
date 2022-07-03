@@ -29,6 +29,7 @@ A custom red + black themed rice!
 
 ## Terminal theme:
 - Used pywal on the wallpaper, [`Link to pywal`](https://github.com/dylanaraps/pywal)
+- [neofetch theme](https://github.com/legendlife/neofetch-themes/blob/main/hybrid/config.conf)
 
 ## App Launcher:
 - Used ulauncher theme to [`ulauncher`](https://github.com/sotsugov/ulauncher-eigen)
