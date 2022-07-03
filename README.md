@@ -36,3 +36,5 @@ A custom red + black themed rice!
 
 ## Conky:
 - [Graffias](https://github.com/legendlife/Redish/tree/main/Graffias)
+
+# Enjoy!!
