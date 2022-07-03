@@ -34,4 +34,4 @@ A custom red + black themed rice!
 - Used ulauncher theme to [`ulauncher`](https://github.com/sotsugov/ulauncher-eigen)
 
 ## Conky:
-- [Graffias]()
+- [Graffias](https://github.com/legendlife/Redish/tree/main/Graffias)
