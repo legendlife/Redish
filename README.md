@@ -28,7 +28,7 @@ A custom red + black themed rice!
 - [picom ibhagwan](https://github.com/ibhagwan/picom-ibhagwan-git)
 
 ## Terminal theme:
-- Used pywal on the wallpaper, [`Link to pywall`](https://github.com/dylanaraps/pywal)
+- Used pywal on the wallpaper, [`Link to pywal`](https://github.com/dylanaraps/pywal)
 
 ## App Launcher:
 - Used ulauncher theme to [`ulauncher`](https://github.com/sotsugov/ulauncher-eigen)
