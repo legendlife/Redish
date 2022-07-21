@@ -26,6 +26,7 @@ A custom red + black themed rice!
 
 ## Compositor:
 - [picom ibhagwan](https://github.com/ibhagwan/picom-ibhagwan-git)
+- [picom config file](https://github.com/legendlife/Redish/tree/main/picom)
 
 ## Terminal theme:
 - Used pywal on the wallpaper, [`Link to pywal`](https://github.com/dylanaraps/pywal)
